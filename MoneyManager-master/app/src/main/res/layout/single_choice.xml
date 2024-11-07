@@ -5,7 +5,7 @@
 
         <variable
             name="viewModel"
-            type="com.vinh.moneymanager.viewmodels.SingleChoiceViewModel" />
+            type="com.lephiha.moneymanager.viewmodels.SingleChoiceViewModel" />
     </data>
 
     <LinearLayout

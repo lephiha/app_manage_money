@@ -5,11 +5,11 @@
 
     <data>
 
-        <import type="com.vinh.moneymanager.libs.Helper" />
+        <import type="com.lephiha.moneymanager.libs.Helper" />
 
         <variable
             name="viewModel"
-            type="com.vinh.moneymanager.viewmodels.AddEditFinanceViewModel" />
+            type="com.lephiha.moneymanager.viewmodels.AddEditFinanceViewModel" />
     </data>
 
     <RelativeLayout

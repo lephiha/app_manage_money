@@ -5,7 +5,7 @@
 
     <data>
 
-        <import type="com.vinh.moneymanager.libs.Helper" />
+        <import type="com.lephiha.moneymanager.libs.Helper" />
 
         <variable
             name="mode"
@@ -13,11 +13,11 @@
 
         <variable
             name="date"
-            type="com.vinh.moneymanager.libs.DateRange" />
+            type="com.lephiha.moneymanager.libs.DateRange" />
 
         <variable
             name="dateHandler"
-            type="com.vinh.moneymanager.fragments.StatisticFragment.DateHandlerClick" />
+            type="com.lephiha.moneymanager.fragments.StatisticFragment.DateHandlerClick" />
 
     </data>
 

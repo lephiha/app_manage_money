@@ -5,15 +5,15 @@
 
     <data>
 
-        <import type="com.vinh.moneymanager.libs.Helper" />
+        <import type="com.lephiha.moneymanager.libs.Helper" />
 
         <variable
             name="dateHandler"
-            type="com.vinh.moneymanager.fragments.ExpenseFragment.DateHandlerClick" />
+            type="com.lephiha.moneymanager.fragments.ExpenseFragment.DateHandlerClick" />
 
         <variable
             name="viewModel"
-            type="com.vinh.moneymanager.viewmodels.CategoryFinanceViewModel" />
+            type="com.lephiha.moneymanager.viewmodels.CategoryFinanceViewModel" />
     </data>
 
     <androidx.coordinatorlayout.widget.CoordinatorLayout
